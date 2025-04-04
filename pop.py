@@ -4,6 +4,7 @@ import numpy as np
 # Custom CSS for animations, colors, and UI styling
 st.markdown(
     """
+np.arrange(range(37),(6,6))
     <style>
         body { background-color: #f0f2f6; }
         .course-card { 
