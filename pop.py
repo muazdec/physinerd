@@ -1,7 +1,6 @@
 import streamlit as st
 import time
-import numpy as np
-np.arrange(range(37),(6,6))
+
 # Custom CSS for animations, colors, and UI styling
 st.markdown(
     """
