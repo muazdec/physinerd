@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-
+import numpy as np
 # Custom CSS for animations, colors, and UI styling
 st.markdown(
     """
